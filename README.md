@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kevin Ha
-- 👀 I’m interested in ... movies, football
+- 👀 I’m interested in ... movies, football, automation
 - 🌱 I’m currently learning .... microsoft power plaftform
-- 💞️ I’m looking to collaborate on .... power automate
+- 💞️ I’m looking to collaborate on .... RPA
 - 📫 How to reach me ... (http://donghung.vn/) 
 
 <!---
